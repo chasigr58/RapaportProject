@@ -11,6 +11,8 @@ And also in the numbers when commas are missing —> then put them.
 
 Back end:
 
+I used swagger because I had to make two readings on the server.
+With swagger it is very efficient and understandable to use and it suited this specific project.
 I implemented Swagger in my project.
 I set the .csv file in its property to be permanent.
 I did a get call to get all diamonds from the .csv file.
